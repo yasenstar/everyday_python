@@ -13,4 +13,4 @@ Key resources:
 
 ---
 
-Remember: __Learning is the Journey, not the Destiation!__
+Remember: __Learning is the Journey, not the Destination!__
