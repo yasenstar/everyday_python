@@ -1,4 +1,4 @@
-# Everyday Python - Day 002
+# Everyday Python - Day 002 - Different Kinds of Numbers
 
 We still use Terminal (interpreter mode) and continue of numbers
 

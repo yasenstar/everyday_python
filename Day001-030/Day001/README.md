@@ -1,4 +1,4 @@
-# Everyday Python - Day 001
+# Everyday Python - Day 001 - Install Python and Know Numbers
 
 ## Install (or Upgrade) Python
 
