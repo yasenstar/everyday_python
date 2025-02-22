@@ -85,7 +85,7 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<node TEXT="Day 001-030" POSITION="bottom_or_right" ID="ID_1162720654" CREATED="1740145466400" MODIFIED="1740145471148">
+<node TEXT="Day 001-030" POSITION="bottom_or_right" ID="ID_1162720654" CREATED="1740145466400" MODIFIED="1740185071749" LINK="https://github.com/yasenstar/everyday_python/tree/main/Day001-030">
 <node TEXT="Day 001" ID="ID_113190562" CREATED="1740145471999" MODIFIED="1740145479761">
 <node TEXT="Installation of Latest Python Version" ID="ID_647611581" CREATED="1740145479765" MODIFIED="1740145495076"/>
 <node TEXT="Using Terminal to Familiar Basic Math Operations" ID="ID_1126968432" CREATED="1740145495452" MODIFIED="1740145546737"/>
@@ -96,6 +96,9 @@
 </node>
 <node TEXT="Day 003" ID="ID_947147476" CREATED="1740145600837" MODIFIED="1740145604704">
 <node TEXT="Continue Number: Know Fraction Number" ID="ID_1523868256" CREATED="1740145604704" MODIFIED="1740145615690"/>
+</node>
+<node TEXT="Day 004" ID="ID_734656461" CREATED="1740185024038" MODIFIED="1740185027722">
+<node TEXT="Create one Tip and Bill Split Calculator" ID="ID_1847771923" CREATED="1740185027730" MODIFIED="1740185042197"/>
 </node>
 </node>
 </node>
