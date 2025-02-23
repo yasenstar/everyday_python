@@ -1,4 +1,4 @@
-# Everyday Python - Day 003 - Install Python and Know Numbers
+# Everyday Python - Day 003 - Fraction Numbers
 
 Today we learn how to handle fractions in Python.
 
