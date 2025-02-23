@@ -65,6 +65,12 @@ Below, the `float()` function works similarly to perform the reverse conversion:
 
 ---
 
+## Add-on: Familiar Types of Data Structures in Python
+
+![Python Data Structure](img/Python-Data-Structures.png)
+
+---
+
 Try to use different numbers to more testing, see you next day!
 
 ---
