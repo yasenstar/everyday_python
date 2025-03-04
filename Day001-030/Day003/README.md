@@ -2,6 +2,8 @@
 
 Today we learn how to handle fractions in Python.
 
+![fraction-parts](img/fraction-mixed-parts.png)
+
 ## Create Fraction Numbers
 
 Using fractions, we need to use Python's `fractions` module.
