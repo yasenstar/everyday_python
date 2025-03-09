@@ -1,7 +1,7 @@
 <map version="freeplane 1.12.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Everyday Python" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1740145405257" VGAP_QUANTITY="3 pt"><hook NAME="MapStyle" background="#d6e8e8ff" zoom="1.6105102">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/light_sky_element_template.mm" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_sky_element_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -100,7 +100,10 @@
 <node TEXT="Day 004" ID="ID_88044527" CREATED="1740187017482" MODIFIED="1740187020769">
 <node TEXT="Getting User Input" ID="ID_1251622183" CREATED="1740187020774" MODIFIED="1740187029342"/>
 </node>
-<node TEXT="Day 005" ID="ID_734656461" CREATED="1740185024038" MODIFIED="1740187016357">
+<node TEXT="Day 005" ID="ID_949012549" CREATED="1741223011061" MODIFIED="1741223018136">
+<node TEXT="Handling Exceptions and Invalid Input" ID="ID_1055794015" CREATED="1741223018140" MODIFIED="1741223033756"/>
+</node>
+<node TEXT="Day 006" ID="ID_734656461" CREATED="1740185024038" MODIFIED="1741223009799">
 <node TEXT="Create one Tip and Bill Split Calculator" ID="ID_1847771923" CREATED="1740185027730" MODIFIED="1740185042197"/>
 </node>
 </node>
